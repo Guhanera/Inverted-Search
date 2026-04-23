@@ -1,0 +1,12 @@
+@23#0;are;2;f1.txt;1;f3.txt;1;#
+#6;guhan;1;f1.txt;1;#
+#7;hi;1;f1.txt;2;#
+#7;hello;1;f1.txt;2;#
+#7;how;1;f3.txt;1;#
+#7;home;1;f3.txt;1;#
+#8;Im;1;f1.txt;1;#
+#14;old;1;f1.txt;1;#
+#24;you;2;f1.txt;1;f3.txt;1;#
+#24;years;1;f1.txt;1;#
+#26;24;1;f1.txt;1;#
+#27;@;1;f3.txt;1;#
